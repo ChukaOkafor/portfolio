@@ -1,19 +1,19 @@
 <script>
   const exps = [
     {
-      title: "Shark Gang Lead",
+      title: "Almighty Shark",
       duration: "Jan 2022 - Present",
     },
     {
-      title: "Vegan Shark",
+      title: "Bigger Shark",
       duration: "Jan 2021 - Jan 2022",
     },
     {
-      title: "Junior Shark",
+      title: "Small Shark",
       duration: "Jan 2020 - Jan 2021",
     },
     {
-      title: "Baby Shark",
+      title: "Little Shark",
       duration: "Jan 2019 - Jan 2020",
     },
   ];
